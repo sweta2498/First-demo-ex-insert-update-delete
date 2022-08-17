@@ -1,0 +1,103 @@
+{
+  "data123": [
+    {
+      "number": "4040",
+      "name": "Raghvani",
+      "dept": "Operator",
+      "salary": "50000",
+      "address": "Surat",
+      "id": 5
+    },
+    {
+      "number": "4040",
+      "name": "Raghvani",
+      "dept": "Operator",
+      "salary": "50000",
+      "address": "Surat",
+      "id": 6
+    },
+    {
+      "number": "5050",
+      "name": "Java",
+      "dept": "MBA",
+      "salary": "90000",
+      "address": "US",
+      "id": 7
+    },
+    {
+      "number": "5050",
+      "name": "Java",
+      "dept": "MBA",
+      "salary": "90000",
+      "address": "US",
+      "id": 8
+    },
+    {
+      "number": "5050",
+      "name": "Java",
+      "dept": "MBA",
+      "salary": "90000",
+      "address": "US",
+      "id": 9
+    },
+    {
+      "number": "30302",
+      "name": "asha",
+      "dept": "xx",
+      "salary": "52100",
+      "address": "sewfrtf",
+      "id": 11
+    },
+    {
+      "number": "5656",
+      "name": "react",
+      "dept": "react",
+      "salary": "41020",
+      "address": "react",
+      "id": 12
+    },
+    {
+      "number": "5656",
+      "name": "react",
+      "dept": "react",
+      "salary": "41020",
+      "address": "react",
+      "id": 13
+    },
+    {
+      "number": "2020",
+      "name": "android",
+      "dept": "Operator",
+      "salary": "1000",
+      "address": "android",
+      "id": 15
+    },
+    {
+      "number": "5050",
+      "name": "sweta",
+      "dept": "IT",
+      "salary": "80,000",
+      "address": "US",
+      "id": 16
+    },
+    {
+      "id": 17
+    },
+    {
+      "number": " ",
+      "name": " ",
+      "dept": " ",
+      "salary": " ",
+      "address": " ",
+      "id": 18
+    },
+    {
+      "number": " ",
+      "name": "a",
+      "dept": "a",
+      "salary": "a",
+      "address": "a",
+      "id": 19
+    }
+  ]
+}
