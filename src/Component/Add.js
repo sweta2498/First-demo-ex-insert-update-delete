@@ -8,9 +8,7 @@ function Add()
     const [dept,setDept]=useState("")
     const [salary,setSalary]=useState("")
     const [address,setAddress]=useState("")
-
     const navigate = useNavigate();
-
     function savebtn()
     {
         console.log(number,name,dept,salary,address);
@@ -33,8 +31,6 @@ function Add()
                 navigate('/')
 
             })
-
-
         }
         else
         {
